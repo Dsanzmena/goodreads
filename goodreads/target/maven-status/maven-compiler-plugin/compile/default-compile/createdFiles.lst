@@ -1,0 +1,5 @@
+com\dsanz\goodreads\goodreads\config\GoodReadsWebConfig.class
+com\dsanz\goodreads\goodreads\GoodreadsApplication.class
+com\dsanz\goodreads\goodreads\config\GeneralConstants.class
+com\dsanz\goodreads\goodreads\ServletInitializer.class
+com\dsanz\goodreads\goodreads\controller\HomeController.class
